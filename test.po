@@ -1,0 +1,123 @@
+# Catalan translation for oemedical
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the oemedical package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: oemedical\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-11-08 00:39+0000\n"
+"PO-Revision-Date: 2013-12-05 01:39+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-06 06:23+0000\n"
+"X-Generator: Launchpad (build 16863)\n"
+
+#. module: oemedical
+#: view:oemedical.patient:0
+msgid "Smoke"
+msgstr ""
+
+#. module: oemedical
+#: help:oemedical.drugs_recreational,dea_schedule_ii:0
+msgid ""
+"Schedule I and II drugs have a high potential for abuse.They require greater "
+"storage security and have a quota onmanufacturing, among other restrictions. "
+"Schedule I drugs areavailable for research only and have no approved medical "
+"use; Schedule II drugs are available only by prescription (unrefillable) and "
+"require a form for ordering. Schedule III and IV drugs are available by "
+"prescription, may have fiverefills in 6 months, and may be ordered orally. "
+"Some Schedule V drugs are available over the counter"
+msgstr ""
+
+#. module: oemedical
+#: selection:oemedical.puerperium.monitor,lochia_color:0
+msgid "rubra"
+msgstr ""
+
+#. module: oemedical
+#: field:oemedical.patient.prenatal.evaluation,fetus_heart_rate:0
+#: help:oemedical.patient.prenatal.evaluation,fetus_heart_rate:0
+msgid "Fetus heart rate"
+msgstr ""
+
+#. module: oemedical
+#: model:ir.actions.act_window,name:oemedical.act_open_oemedical_pathology_category_view
+msgid "Pathology Category"
+msgstr ""
+
+#. module: oemedical
+#: field:oemedical.patient,childbearing_age:0
+msgid "Potential for Childbearing"
+msgstr ""
+
+#. module: oemedical
+#: model:ir.model,name:oemedical.model_oemedical_hospital_building
+msgid "oemedical.hospital.building"
+msgstr ""
+
+#. module: oemedical
+#: model:ir.model,name:oemedical.model_oemedical_family
+msgid "oemedical.family"
+msgstr ""
+
+#. module: oemedical
+#: help:oemedical.lab,requestor:0
+msgid "Doctor who requested the test"
+msgstr ""
+
+#. module: oemedical
+#: selection:oemedical.patient.disease,status:0
+msgid "unchanged"
+msgstr ""
+
+#. module: oemedical
+#: field:oemedical.patient.pregnancy,monozygotic:0
+msgid "Monozygotic"
+msgstr ""
+
+#. module: oemedical
+#: field:oemedical.patient.lab.test,name:0
+msgid "Test Type"
+msgstr ""
+
+#. module: oemedical
+#: selection:oemedical.hospital.bed,state:0
+#: selection:oemedical.hospital.ward,state:0
+msgid "Not available"
+msgstr ""
+
+#. module: oemedical
+#: view:oemedical.patient:0
+msgid "Perinatal and Intrapartum Information"
+msgstr ""
+
+#. module: oemedical
+#: field:oemedical.patient,pap_test_last:0
+msgid "Last PAP test"
+msgstr ""
+
+#. module: oemedical
+#: field:oemedical.patient.pregnancy,current_pregnancy:0
+msgid "Current Pregnancy"
+msgstr ""
+
+#. module: oemedical
+#: model:ir.actions.act_window,name:oemedical.act_open_oemedical_diagnostic_hypothesis_view
+msgid "Diagnostic Hypothesis"
+msgstr ""
+
+#. module: oemedical
+#: field:oemedical.insurance,owner:0
+msgid "Owner"
+msgstr ""
+
+#. module: oemedical
+#: selection:oemedical.perinatal,hematoma:0
+#: selection:oemedical.perinatal,laceration:0
+msgid "Vaginal"
+msgstr ""
